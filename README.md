@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidhenke-dev
 - 👀 I’m interested in working on innovative tools and products
-- 🌱 I’m currently learning python and frontend development
+- 🌱 I’m currently learning python and frontend development + HISE
 - ⚡ Fun fact: I am making music aswell
 
 <!---
